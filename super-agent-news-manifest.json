@@ -1,0 +1,25 @@
+{
+  "citations": [
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[SearchEngineJournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5)",
+    "[hermify.io](https://www.hermify.io/en/blog/ai-agent-for-recruiters)",
+    "[supermia.ai](https://supermia.ai/ai-interview-agent/)"
+  ],
+  "design_plan": "rng=42; architecture=reused comparison-page system; AIDA verified (hero pain\u2192proof\u2192contrast\u2192CTA); hero max-width=1120px ensures 2\u20133 lines; bento & compare grids include grid-auto-flow:dense; competitor label sweep done; CTA contrast black/white pills checked.",
+  "generated_at": "2026-06-30T02:01:13.053408+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who spend their days sourcing candidates, chasing follow\u2011ups, and coordinating interviews. This page reuses Super\u2019s proven comparison\u2011page visual system and positions Super as the sharper alternative for repeated recruiting workflows \u2014 a personal AI agent that can operate real recruiting tools, calendars, inboxes, and ATS dashboards, and reuse a computer\u2011use cache so sourcing and coordination get faster over time."
+}
